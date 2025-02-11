@@ -2,7 +2,7 @@
     "name": "manseo-api-project",
     "version": "1.0.0",
     "scripts": {
-      "start": "python3 app.py"
+      "start": "gunicorn app:app"
     },
     "dependencies": {}
   }

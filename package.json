@@ -1,0 +1,9 @@
+{
+    "name": "manseo-api-project",
+    "version": "1.0.0",
+    "scripts": {
+      "start": "python3 app.py"
+    },
+    "dependencies": {}
+  }
+  
